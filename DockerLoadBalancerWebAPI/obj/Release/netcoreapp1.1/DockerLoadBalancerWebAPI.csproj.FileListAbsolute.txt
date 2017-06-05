@@ -1,0 +1,9 @@
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\bin\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.deps.json
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\bin\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.runtimeconfig.json
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\bin\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.runtimeconfig.dev.json
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\bin\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.dll
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\bin\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.pdb
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\obj\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.csprojResolveAssemblyReference.cache
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\obj\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.AssemblyInfo.cs
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\obj\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.dll
+D:\Projects\RND\Docker\DockerLoadBalancer\DockerLoadBalancerWebAPI\DockerLoadBalancerWebAPI\obj\Release\netcoreapp1.1\DockerLoadBalancerWebAPI.pdb

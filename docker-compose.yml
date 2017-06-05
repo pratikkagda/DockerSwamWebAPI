@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dockerloadbalancerwebapi:
+    image: dockerloadbalancerwebapi
+    build:
+      context: ./DockerLoadBalancerWebAPI
+      dockerfile: Dockerfile
