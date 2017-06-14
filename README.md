@@ -49,7 +49,7 @@ Here are the guide though how to create docker enabled ASP.Net Core Web API solu
     Within docker image file we've mentioned port# 80 (EXPOSE 80) which means that application will be run on port# 80 after published.
     Now we've pull the images in order to run docker image execute below command within docker console:
     
-    docker run --name dockerswarmdemo -d -p 8181:80 pratikkagda/dockerswarmtest/
+    docker run --name dockerswarmdemo -d -p 8181:80 pratikkagda/dockerswarmtest
    
    Now we've mapeed port# 8181 with 80 which means that WebAPI project can be accessible through port# 8181. After executing this command
    you can browse though Web Api application by appending /api/todo.
